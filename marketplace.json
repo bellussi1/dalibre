@@ -182,7 +182,7 @@
       "dalibre": ">=0.4.0",
       "category": "epub",
       "calibre": "EpubMerge",
-      "downloads": 9288,
+      "downloads": 9289,
       "repo": "djyde/dalibre",
       "package": "https://raw.githubusercontent.com/djyde/dalibre/refs/heads/marketplace/packages/org.randynamic.dalibre.epub-merge-1.0.0.dalibre-plugin",
       "capabilities": {
